@@ -4,7 +4,7 @@
  
  🧑🏼‍💻 I’m currently helping build CrowdVolt (YC W24)
  
- 🌱 I’m currently learning **ReactNative and Supabase,**
+ 🌱 I’m currently learning **ReactNative and Convex,**
 
  ⚽️ I'm an Avid Aston Villa Fan
 
